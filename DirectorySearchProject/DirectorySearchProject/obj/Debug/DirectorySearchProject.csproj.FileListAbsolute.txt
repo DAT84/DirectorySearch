@@ -1,8 +1,0 @@
-C:\Users\damian\Desktop\Projects\SideProjects\DirectorySearchProject\DirectorySearchProject\bin\Debug\DirectorySearchProject.exe.config
-C:\Users\damian\Desktop\Projects\SideProjects\DirectorySearchProject\DirectorySearchProject\obj\Debug\DirectorySearchProject.csprojResolveAssemblyReference.cache
-C:\Users\damian\Desktop\Projects\SideProjects\DirectorySearchProject\DirectorySearchProject\obj\Debug\DirectorySearchProject.Histogram.ChartForm.resources
-C:\Users\damian\Desktop\Projects\SideProjects\DirectorySearchProject\DirectorySearchProject\obj\Debug\DirectorySearchProject.csproj.GenerateResource.Cache
-C:\Users\damian\Desktop\Projects\SideProjects\DirectorySearchProject\DirectorySearchProject\bin\Debug\DirectorySearchProject.exe
-C:\Users\damian\Desktop\Projects\SideProjects\DirectorySearchProject\DirectorySearchProject\bin\Debug\DirectorySearchProject.pdb
-C:\Users\damian\Desktop\Projects\SideProjects\DirectorySearchProject\DirectorySearchProject\obj\Debug\DirectorySearchProject.exe
-C:\Users\damian\Desktop\Projects\SideProjects\DirectorySearchProject\DirectorySearchProject\obj\Debug\DirectorySearchProject.pdb
